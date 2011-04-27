@@ -4,8 +4,7 @@ title: Learn github pages
 ---
 
 
-
-p(meta). 23 Avril 2011 - Github pages
+# 23 Avril 2011 - Github pages
 
 looks like it's awesome !
 
