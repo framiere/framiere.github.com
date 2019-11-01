@@ -1,6 +1,5 @@
 ---
-layout: default
-title: test index
+title: no-op
 ---
 # no-op
 
